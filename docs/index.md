@@ -7,9 +7,6 @@ description: >
   Op deze website vind je alle informatie om de digitale inkomensverklaring zorgvuldig te implementeren, conform de DIV-it-standaard en met hulp van ...
 ---
 
-
-[source](https://pub.aedesdatastandaarden.nl/DIV-it/standaard/)
-
 # DIV-it - standaard voor digitale inkomensverklaring
 
 ![][1]
