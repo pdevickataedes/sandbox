@@ -25,3 +25,4 @@ jobs:
         to: aedes_sandbox@devick.com
         from: patrick@devick.com
         cc: p.devick@aedes.nl
+        convert_markdown: true
