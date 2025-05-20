@@ -24,3 +24,4 @@ jobs:
           Issue URL: ${{ github.event.issue.html_url }}
         to: aedes_sandbox@devick.com
         from: patrick@devick.com
+        cc: p.devick@aedes.nl
