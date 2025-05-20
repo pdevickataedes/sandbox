@@ -22,5 +22,5 @@ jobs:
           Title: ${{ github.event.issue.title }}
           Body: ${{ github.event.issue.body }}
           Issue URL: ${{ github.event.issue.html_url }}
-        to: pdevickataedes@devick.com
-        from: pdevickataedes@devick.com
+        to: aedes_sandbox@devick.com
+        from: aedes_sandbox@devick.com
