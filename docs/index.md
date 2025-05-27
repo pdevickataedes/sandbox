@@ -18,6 +18,7 @@ Op deze website vind je alle informatie om de digitale inkomensverklaring zorgvu
   [1]: https://pub.aedesdatastandaarden.nl/DIV-it/document-cover.jpg.jpeg?inst-v=ec703c03-349d-43a6-87e0-06620bd72065
 
 ## Inhoud
+DIT IS EEN UPDATE
 
 [Ondersteuning door Aedes][2]
 
