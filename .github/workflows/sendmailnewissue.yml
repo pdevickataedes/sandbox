@@ -20,9 +20,9 @@ jobs:
           A new issue has been created in the repository.
 
           Title: ${{ github.event.issue.title }}
-          Body: ${{ github.event.issue.body }}
+          Body: "Dit is een test" 
           Issue URL: ${{ github.event.issue.html_url }}
         to: aedes_sandbox@devick.com
         from: patrick@devick.com
         cc: p.devick@aedes.nl
-        convert_markdown: true
+        convert_markdown: false
