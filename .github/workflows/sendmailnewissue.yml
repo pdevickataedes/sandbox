@@ -22,6 +22,7 @@ jobs:
           Title: ${{ github.event.issue.title }}
           Body: ${{ github.event.issue.body }}
           Issue URL: ${{ github.event.issue.html_url }}
-        to: aedes_sandbox@devick.com
+        to: p.devick@aedes.nl
         from: patrick@devick.com
-        convert_markdown: false
+        cc: aedes_sandbox@devick.com
+        convert_markdown: true
